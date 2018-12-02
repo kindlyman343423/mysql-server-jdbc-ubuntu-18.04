@@ -232,9 +232,17 @@ public class DemoClass
 ```
 
 * Now we will change and add java database connector in intellij
-* First click on File on top-left side
+* First click on File on top-left side and select project structure
 * A prompt will open then select libraries and click on + and select maven and find mysql-connector 5.1.47
+
+![image](images/select.png)
+
 * Now select apply and then click ok
 * Then make sure that mysql-connector is selected in modules
+
+![image](images/check.png)
+
 * Now all the setting are done
 * Its time to run the java file and see the result will be the result of query you have finded on the table above
+
+![image](images/output.png)
