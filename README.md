@@ -12,7 +12,7 @@ This repository contains the instructions for running **JDBC in UBUNTU** using *
 
 ## CONTRIBUTION
 
-Follow our Contributing [Guidelines]()
+Follow our Contributing [Guidelines](CONTRIBUTING.md)
 
 ## INTELLIJ IDEA
 
@@ -262,3 +262,9 @@ public class DemoClass
 * Its time to run the java file and see the result will be the result of query you have finded on the table above
 
 ![image](images/output.png)
+
+## LICENSE
+
+[GNU GENERAL PUBLIC LICENSE](LICENSE)
+
+:copyright: Gaurav Walia 2019
