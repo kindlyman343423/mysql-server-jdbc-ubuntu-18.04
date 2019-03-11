@@ -1,6 +1,22 @@
 # USING JDBC (JAVA DATABASE CONNECTIVITY)
 
-## ON INTELLIJ IDEA
+This repository contains the instructions for running **JDBC in UBUNTU** using **INTELLIJ IDEA IDE**.
+
+## PREQUESTIES
+
+* Java
+* Mysql database
+* SQL
+* Using CLI (Terminal / CMD)
+* Ubuntu
+
+## CONTRIBUTION
+
+Follow our Contributing [Guidelines]()
+
+## INTELLIJ IDEA
+
+Follow below steps to use mysql with java in ubuntu using **Mysql Connector**. For any doubts contact us at ```gauravwalia019@gmail.com```
 
 * Firstly install mysql on ubuntu
 
